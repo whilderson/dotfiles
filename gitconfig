@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = wouter.hilderson@gmail.com
+	name = Wouter Hilderson
